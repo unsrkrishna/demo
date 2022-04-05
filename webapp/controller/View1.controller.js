@@ -16,7 +16,7 @@ function (Controller) {
 		// show a native JavaScript alert
 		//updated on March 31
 
-		alert("Hello!");
+		alert("Hello Team!");
 		}
 	});
 });
