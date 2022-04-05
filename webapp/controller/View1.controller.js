@@ -14,9 +14,9 @@ function (Controller) {
 		
 	onShowHello: function () {
 		// show a native JavaScript alert
-		//updated on March 31
+		//updated on April 5
 
-		alert("Hello!");
+		alert("Hello Team!");
 		}
 	});
 });
